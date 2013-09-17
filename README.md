@@ -1,4 +1,4 @@
-# Autohighlighting brought to vim.
+# Auto-highlighting brought to vim.
 
 This is a feature that most modern IDEs have that I found I missed when in vim.
 
